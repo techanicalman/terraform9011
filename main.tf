@@ -71,5 +71,5 @@ output "ec2_os_with_subnets" {
     }
   ]
 
-  description = "Shows EC2 instances with OS and subnet details"
+  description = "Shows EC2 instances with OS and subnet detail"
 }
